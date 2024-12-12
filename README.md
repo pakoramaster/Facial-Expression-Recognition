@@ -31,10 +31,8 @@ The success of our project will be measured based on the accuracy and robustness
 
 ## Deliverables
 - CNN from Scratch
-- Video illustrating results of our CNN model
 - Three Pre-trained CNN Models
-- Video illustrating the results of the pre-trained models
-- Project Report
+- Ensemble Model
 
 ## Application Areas
 The developed facial expression recognition system has broad applications, including:
