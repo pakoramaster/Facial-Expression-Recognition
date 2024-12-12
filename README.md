@@ -17,11 +17,11 @@ The success of our project will be measured based on the accuracy and robustness
 
 ## Detailed Project Plan
 ### Phase 1: Data Collection and Preprocessing
-- Collect facial expression datasets (FER2013, CK+, or RAF-DB).
+- Collect facial expression datasets (FER2013).
 - Preprocess images (resize, normalization, augmentation).
 
 ### Phase 2: Model Development and Training
-- Design and implement CNN architectures (e.g., CNN, ResNet, VGG).
+- Design and implement CNN architectures (e.g., CNN, MobileNet, VGG).
 - Train CNN models on the preprocessed dataset.
 
 ### Phase 3: Evaluation and Fine-tuning
@@ -44,6 +44,3 @@ The developed facial expression recognition system has broad applications, inclu
 ## References
 - Google. (n.d.). Facial Expression Recognition Challenge using Convolutional Neural Network. Google Colab. [Link](https://colab.research.google.com/drive/1XiJ-sa5Kg324mpq_XG_JMWOlfj_DvZFv)
 - Nhduong. (n.d.). Nhduong/FER2013: Kaggle facial expression recognition 2013 using TensorFlow. GitHub. [Link](https://github.com/nhduong/fer2013)
-
-
- 
